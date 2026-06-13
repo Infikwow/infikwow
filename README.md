@@ -1,5 +1,5 @@
 
-# :mag_right: Инженер по тестированию / Testing Engineer
+# :mag_right: Инженер по тестированию
 
 *:bookmark: Ссылка на пройденный курс / link course:  [Инженер по тестированию](https://practicum.yandex.ru/qa-engineer/)*
 
